@@ -13368,11 +13368,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\PAL-7\\workspace\\pal-tracker\\test\\PalTrackerTests\\PalTrackerTests.csproj",
+      "projectUniqueName": "C:\\Users\\PAL-7\\workspace\\pal-tracker\\test\\PalTrackerTests\\PalTrackerTests.csproj",
       "projectName": "PalTrackerTests",
-      "projectPath": "c:\\Users\\PAL-7\\workspace\\pal-tracker\\test\\PalTrackerTests\\PalTrackerTests.csproj",
+      "projectPath": "C:\\Users\\PAL-7\\workspace\\pal-tracker\\test\\PalTrackerTests\\PalTrackerTests.csproj",
       "packagesPath": "C:\\Users\\PAL-7\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\PAL-7\\workspace\\pal-tracker\\test\\PalTrackerTests\\obj\\",
+      "outputPath": "C:\\Users\\PAL-7\\workspace\\pal-tracker\\test\\PalTrackerTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13389,8 +13389,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "c:\\Users\\PAL-7\\workspace\\pal-tracker\\src\\PalTracker\\PalTracker.csproj": {
-              "projectPath": "c:\\Users\\PAL-7\\workspace\\pal-tracker\\src\\PalTracker\\PalTracker.csproj"
+            "C:\\Users\\PAL-7\\workspace\\pal-tracker\\src\\PalTracker\\PalTracker.csproj": {
+              "projectPath": "C:\\Users\\PAL-7\\workspace\\pal-tracker\\src\\PalTracker\\PalTracker.csproj"
             }
           }
         }
