@@ -12,7 +12,7 @@ mkdir -p $build_output
 mkdir -p $artifacts_path
 
 cp manifest-*.yml $build_output
-
+dotnet restore 
 dotnet publish src/PalTracker --configuration Release \
     --output $build_output/src/PalTracker/bin/Release/netcoreapp2.1/publish
 
